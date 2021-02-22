@@ -42,6 +42,6 @@
 
 ---
 
+### :headphones: Spotify Playing
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[<img src="https://vercel.com/mary97mr/novatorem" alt="mary97mr spotify playing" width="350" />](https://open.spotify.com/user/mary17mr)
