@@ -44,4 +44,4 @@
 
 ### :headphones: Spotify Playing
 
-[<img src="https://vercel.com/mary97mr/novatorem" alt="mary97mr spotify playing" width="350" />](https://open.spotify.com/user/mary17mr)
+<img src="https://vercel.com/mary97mr/novatorem" alt="mary97mr spotify playing" width="350" >
