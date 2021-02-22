@@ -44,4 +44,4 @@
 
 ### :headphones: Spotify Playing
 
-[![Spotify](https://mary97mr.vercel.app/api/spotify)](https://open.spotify.com/user/mary17mr)
+[![Spotify](https://novatorem-50835xkxp-mary97mr.vercel.app/api/spotify)](https://open.spotify.com/user/mary17mr)
