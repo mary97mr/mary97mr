@@ -11,13 +11,10 @@
 ---
 
 ### 💻 Web Developer
-
 - 🌱 I’m currently learning web dev.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything.
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about anything tech related.
+- 📫 Feel free to ping me on Linkedin.
+
 
 ---
 ### 🚀 Coding
@@ -45,4 +42,7 @@
 
 ---
 
+### :books: Last posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
