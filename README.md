@@ -2,11 +2,11 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=fff&label=mary%20mendieta&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmary-mendieta-1574b115a%2F)](https://www.linkedin.com/in/mary-mendieta-1574b115a/) [![Twitter URL](https://img.shields.io/twitter/url?color=fff&label=MARYMENDIROJAS&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2F)](https://www.instagram.com/marymendirojas) [![Twitter Follow](https://img.shields.io/twitter/follow/marymendirojas?color=%231DA1F2&label=MARYMENDIROJAS&logo=twitter&style=for-the-badge)](https://twitter.com/marymendirojas)
 
-<img src="https://portal.sinai.com.co/wp-content/uploads/2019/07/alphatestersanimation2.gif" width="400px">
+<img src="https://portal.sinai.com.co/wp-content/uploads/2019/07/alphatestersanimation2.gif" width="400px" style="margin-left: auto">
 
 <br/>
 
-<img src="https://www.meshdex.com/wp-content/uploads/2018/07/web.gif" width="400px">
+<img src="https://www.meshdex.com/wp-content/uploads/2018/07/web.gif" width="400px" style="margin-left: auto">
 
 ---
 
